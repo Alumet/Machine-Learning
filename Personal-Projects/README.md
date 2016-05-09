@@ -14,6 +14,3 @@ The aim was to understand and experiment with Neural Networks.
 This project was inspired by Neural Networks Demystified series by "Welch Labs" https://www.youtube.com/watch?v=bxe2T-V8XRs.
 
 ######Neural_Networks.py
-
-
-##Gravity
